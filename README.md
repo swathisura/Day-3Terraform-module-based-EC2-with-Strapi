@@ -34,7 +34,10 @@ Outputs EC2 public IP after provisioning
 
 Uses existing Strapi setup to validate the instance
 
-How to run
-terraform init
+COMMANDS FOR DEPLOYMENT:
+ 
+ terraform init
+
 terraform plan
+
 terraform apply
